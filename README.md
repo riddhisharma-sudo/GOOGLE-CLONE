@@ -3,6 +3,7 @@
 # SearchifyClone - Google Clone
 
 Welcome to SearchifyClone, a simple Google clone project featuring a classic search interface with additional pages for images and advanced search.
+https://riddhisharma-sudo.github.io/GOOGLE-CLONE/
 
 ## Features
 
